@@ -1,17 +1,17 @@
 🕵️‍♂️ Object Detection on Videos with Image AI
 
 <p align="center">
-    <table>
+    <table align="center">
         <tr>
             <th>Input</th>
             <th>Output</th>
         </tr>
         <tr>
             <td>
-                <img>
+                <img src="https://github.com/zumrudu-anka/imageAI-object-detection-on-video/blob/main/presentation/input.gif">
             </td>
             <td>
-                <img>
+                <img src="https://github.com/zumrudu-anka/imageAI-object-detection-on-video/blob/main/presentation/output.gif">
             </td>
         </tr>
     </table>
