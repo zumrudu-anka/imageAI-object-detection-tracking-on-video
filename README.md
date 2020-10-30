@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Object Detection on Videos with Image AI
+# 🕵️‍♂️ Object Detection & Tracking on Videos with Image AI
 
 <p align="center">
     <table align="center">
