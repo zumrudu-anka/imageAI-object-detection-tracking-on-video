@@ -25,7 +25,7 @@
 
 ## Installation
 
-- Clone this repo to your local machine `git clone https://github.com/zumrudu-anka/imageAI-object-detection-on-video.git`
+- Clone the repo to your local machine `git clone https://github.com/zumrudu-anka/imageAI-object-detection-on-video.git`
 - Go to the project folder
 - run `python -m venv myvenv` for create virtual environment which name is myvenv
 - run `pip install -r requirements`
